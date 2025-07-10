@@ -1,22 +1,23 @@
-# 📊 SnapTrack
+# 🚀 SnapTrack – Skill Progress Tracker
 
-A simple Python + Streamlit-based skill tracking app to help you log, view, and delete daily skill updates.
-
----
-
-## 🚀 Features
-
-- 📅 Add daily skill entries
-- 📖 View your full learning log
-- 🗑️ Delete old entries
-- 💾 Saves data in `skills.json`
-- 💻 Runs with a clean Streamlit UI
+A fun and minimal productivity app built with Python and Streamlit to help you track your daily skill-building journey.
 
 ---
 
-## 🛠 How to Run
+## ✨ Features
 
-Make sure you have Python and Streamlit installed.
+- 📅 Log your daily practiced skills
+- 📝 Add notes for each entry
+- 👀 View all your past entries
+- 🗑️ Delete specific entries easily
+- 💾 Data saved in a `skills.json` file
 
+---
+
+## 🧪 How to Run This App Locally
+
+Make sure Python and Streamlit are installed.
+
+### ▶️ Run the app:
 ```bash
-pip install streamlit
+& "C:\Users\hp\AppData\Local\Microsoft\WindowsApps\python3.11.exe" -m streamlit run snaptrack.py
